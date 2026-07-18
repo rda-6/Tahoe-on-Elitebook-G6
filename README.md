@@ -30,3 +30,5 @@ Ready made [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) EFI fi
 - Installer should be created according to [Dortania's guide](https://dortania.github.io/OpenCore-Install-Guide/), then the EFI folder be replaced with this
 - This EFI is not guaranteed to work with your 830 G6 as there is quite a bit of hardware variation in this model (like SSD, network card, CPU, GPU, screen)
 - This EFI **might or might not work** with 840 and 850 G6 models
+- This is not a guide nor a guaranteed way of doing it, I recommend treating it as a close baseline and nothing more
+- You **might or might not** need to generate your own [SSDT](https://dortania.github.io/Getting-Started-With-ACPI/)'s using [SSDTTime](https://github.com/corpnewt/ssdttime)
