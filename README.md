@@ -7,8 +7,15 @@ Ready made [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) EFI fi
 - **Networking:** Intel AX200
 - *RAM(irrelevant):* 2x8 GB 2400 MHz DDR4
 
-# What Works:
+# What works:
 - Graphics acceleration
 - CPU power management (via [CPUFriend](https://github.com/acidanthera/CPUFriend/tree/master))
-- Audio **output** (via [AppleHDA-back-on-macOS-26-Tahoe](https://github.com/perez987/AppleHDA-back-on-macOS-26-Tahoe))
+- Internal speakers (via [AppleHDA-back-on-macOS-26-Tahoe](https://github.com/perez987/AppleHDA-back-on-macOS-26-Tahoe))
 - Sleep/Wake
+- Internal camera
+- Hotkeys
+- Touchpad/Gestures
+- Trackpoint
+- Digital audio
+# What doesn't work:
+- Internal microphone (will never work due to Intel's SST)
