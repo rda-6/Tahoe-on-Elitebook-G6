@@ -19,4 +19,6 @@ Ready made [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) EFI fi
 - Digital audio
 - Wi-Fi (via [itlwm](https://github.com/OpenIntelWireless/itlwm) and [HeliPort](https://github.com/OpenIntelWireless/heliport)) **(Requires ethernet during installation)**
 # What doesn't work:
-- Internal microphone (will not work due to Intel's SST)
+- Internal microphone (**will not** work due to Intel's SST)
+- Bluetooth (**might work**, i just couldn't get it to)
+- HDMI output (**can work** with [iGPU patching](https://dortania.github.io/OpenCore-Post-Install/gpu-patching/intel-patching/busid.html#parsing-the-framebuffer))
