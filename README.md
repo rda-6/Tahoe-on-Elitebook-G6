@@ -24,5 +24,5 @@ Ready made [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) EFI fi
 - HDMI output (**can work** with [iGPU patching](https://dortania.github.io/OpenCore-Post-Install/gpu-patching/intel-patching/busid.html#parsing-the-framebuffer)) 
 
 # What to look out for:
-- SMBIOS needs to be set to something compatible with macOS Tahoe **during the installation** (MacBookPro16,2 for my instance) and then needs to be switched to something more compatible with your device (MacBookPro15,4 for me) **after the installation**
+- SMBIOS needs to be set to a model compatible with macOS Tahoe **during the installation** (MacBookPro16,2 for my instance) and then needs to be switched to a more compatible model *with your device* (MacBookPro15,4 for me) **after the installation**
 - Serial numbers should be generated using [GenSMBIOS](https://github.com/corpnewt/gensmbios)
