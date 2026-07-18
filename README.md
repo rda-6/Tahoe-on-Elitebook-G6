@@ -17,5 +17,6 @@ Ready made [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) EFI fi
 - Touchpad/Gestures
 - Trackpoint
 - Digital audio
+- Wi-Fi (via [itlwm](https://github.com/OpenIntelWireless/itlwm) and [HeliPort](https://github.com/OpenIntelWireless/heliport)) **(Requires ethernet during installation)**
 # What doesn't work:
-- Internal microphone (will never work due to Intel's SST)
+- Internal microphone (will not work due to Intel's SST)
