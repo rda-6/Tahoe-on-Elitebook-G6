@@ -28,3 +28,5 @@ Ready made [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) EFI fi
 - SMBIOS needs to be set to a model compatible with macOS Tahoe **during the installation** (MacBookPro16,2 for my instance) and then needs to be switched to a more compatible model *with your device* (MacBookPro15,4 for me) **after the installation**
 - Serial numbers should be generated using [GenSMBIOS](https://github.com/corpnewt/gensmbios)
 - Installer should be created according to [Dortania's guide](https://dortania.github.io/OpenCore-Install-Guide/), then the EFI folder be replaced with this
+- This EFI is not guaranteed to work with your 830 G6 as there is quite a bit of hardware variation in this model (like SSD, network card, CPU, GPU, screen)
+- This EFI **might or might not work** with 840 and 850 G6 models
