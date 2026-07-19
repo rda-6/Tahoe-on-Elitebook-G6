@@ -32,3 +32,6 @@ Ready made [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) EFI fi
 - This EFI **might or might not work** with 840 and 850 G6 models
 - This is not a guide nor a guaranteed way of doing it, I recommend treating it as a close baseline and nothing more
 - You **might or might not** need to generate your own [SSDT](https://dortania.github.io/Getting-Started-With-ACPI/)'s using [SSDTTime](https://github.com/corpnewt/ssdttime)
+
+## How to use:
+Do **git clone https://github.com/rda-6/Tahoe-on-Elitebook-G6/** in your terminal (or download the repo) and copy the contents to your installation USB
