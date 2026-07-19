@@ -44,4 +44,6 @@ into your terminal
 download from the *Releases* and extract
 into your installation USB
 
-![Desktop]()
+![Desktop](20260719_100641.jpg)
+
+![About This Mac](20260719_100722.jpg)
