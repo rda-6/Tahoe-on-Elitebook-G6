@@ -34,4 +34,13 @@ Ready made [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) EFI fi
 - You **might or might not** need to generate your own [SSDT](https://dortania.github.io/Getting-Started-With-ACPI/)'s using [SSDTTime](https://github.com/corpnewt/ssdttime)
 
 ## How to use:
-Do **git clone https://github.com/rda-6/Tahoe-on-Elitebook-G6/** in your terminal (or download the repo) and copy the contents to your installation USB
+```bash 
+git clone https://github.com/rda-6/Tahoe-on-Elitebook-G6
+cd Tahoe-on-Elitebook-G6
+cp -r EFI /path/to/your/usb
+```
+into your terminal
+**or**
+download from the *Releases* and extract
+into your installation USB
+
