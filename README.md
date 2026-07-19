@@ -1,6 +1,7 @@
 # Tahoe-on-Elitebook-G6
 Ready made [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) EFI files for running macOS Tahoe on HP Elitebook G6.
-## Tested and succeeded on an Elitebook 830 G6 with the following specs:
+## Tested and succeeded on an Elitebook 830 G6 with the following:
+- **OpenCore version:** 1.0.7
 - **CPU:** Intel Core i5-8365u
 - **GPU:** Intel UHD Graphics 620
 - **Storage:** Intel 660p 512 GB NVMe SSD
