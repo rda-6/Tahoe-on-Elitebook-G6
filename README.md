@@ -44,3 +44,4 @@ into your terminal
 download from the *Releases* and extract
 into your installation USB
 
+![Desktop]()
